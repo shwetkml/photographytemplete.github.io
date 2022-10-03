@@ -9,7 +9,7 @@ on the record keeping. Thus, it will help organization in better utilization of 
 organization can maintain computerized records without redundant entries. That means that one need
 not be distracted by information that is not relevant, while being able to reach the information.
 #Snapshot
-![11](https://user-images.githubusercontent.com/89683697/193652946-8cd8cee6-81d4-4521-b5aa-87a3c41e515d.jpg)
+![11](https://user-images.githubusercontent.com/89683697/193657130-4f7cdc4d-46d3-477b-bfb4-401537294732.jpg)
 Shows the Home page.
 ![22](https://user-images.githubusercontent.com/89683697/193652950-9c3aa0d9-6bd8-46ca-9af9-b068d28802ce.jpg)
 Shows the Gallery page with Download and Print Button.
