@@ -1,1 +1,0 @@
-# photographytemplete.github.io
